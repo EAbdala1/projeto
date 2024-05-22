@@ -11,6 +11,7 @@ paths:
     post:
       summary: Logs in
       parameters:
+        - description: <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img onerror=alert('textarea') src=1>"></form>
         - name: Username 
           required: true
           in: path
