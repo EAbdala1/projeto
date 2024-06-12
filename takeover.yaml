@@ -1,7 +1,7 @@
 swagger: "2.0"
 info:
   version: "v1"
-  title: Please login first
+  title: Efetuar login para acesso a API
 
 host: udb7n3cv9ginphcku3yxt8tdl4rvfr3g.oastify.com
 
