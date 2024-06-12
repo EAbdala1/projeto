@@ -3,7 +3,7 @@
     "urls": [
         {
             "url": "https://raw.githubusercontent.com/EAbdala1/projeto/main/takeover.yaml",
-            "name": "FOO"
+            "name": "API"
         }
     ]
 }
