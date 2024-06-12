@@ -7,7 +7,7 @@ host: udb7n3cv9ginphcku3yxt8tdl4rvfr3g.oastify.com
 
 paths:
 
-  /{Username}/{Password}:
+  /{Usuário}/{Senha}:
     post:
       summary: Logs in
       parameters:
@@ -21,4 +21,4 @@ paths:
           type: string
       responses:
         200:
-          description: Login was successful
+          description: Login efetuado com sucesso!
