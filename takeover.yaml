@@ -11,11 +11,11 @@ paths:
     post:
       summary: Logs in
       parameters:
-        - name: Username 
+        - name: Usuário
           required: true
           in: path
           type: string
-        - name: Password 
+        - name: Senha 
           required: true
           in: path
           type: string
